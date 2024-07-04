@@ -1,0 +1,5 @@
+"id","season","city","date","match_type","player_of_match","venue","team1","team2","toss_winner","toss_decision","winner","result","result_margin","target_runs","target_overs","super_over","method","umpire1","umpire2"
+981001,"2016","Kanpur","2016-05-19","League","DR Smith","Green Park","Gujarat Lions","Kolkata Knight Riders","Gujarat Lions","field","Gujarat Lions","wickets",6,125,20,"N",NA,"AK Chaudhary","CK Nandan"
+981007,"2016","Kanpur","2016-05-21","League","SK Raina","Green Park","Gujarat Lions","Mumbai Indians","Gujarat Lions","field","Gujarat Lions","wickets",6,173,20,"N",NA,"AK Chaudhary","CK Nandan"
+1082640,"2017","Kanpur","2017-05-10","League","SS Iyer","Green Park","Gujarat Lions","Delhi Daredevils","Delhi Daredevils","field","Delhi Daredevils","wickets",2,196,20,"N",NA,"YC Barde","AK Chaudhary"
+1082643,"2017","Kanpur","2017-05-13","League","Mohammed Siraj","Green Park","Gujarat Lions","Sunrisers Hyderabad","Sunrisers Hyderabad","field","Sunrisers Hyderabad","wickets",8,155,20,"N",NA,"AK Chaudhary","Nitin Menon"
